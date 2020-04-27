@@ -1,6 +1,5 @@
 import React from "react";
 import "./Card.css";
-import { motion } from "framer-motion";
 
 const Card = (props) => (
   <motion.div className="Card">
