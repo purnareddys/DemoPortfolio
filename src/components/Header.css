@@ -7,7 +7,7 @@
 }
 
 .HeaderScrolled {
-  background: rgba(0, 0, 0, 0.774);
+  background: rgba(206, 95, 3, 0.774);
   padding: 15px 0;
   backdrop-filter: blur(20px);
 }
@@ -21,7 +21,7 @@
   justify-items: center;
 }
 
-.Header a {
+.Header p {
   color: white;
   font-weight: 700;
 }

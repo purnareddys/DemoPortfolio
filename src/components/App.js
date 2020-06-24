@@ -46,6 +46,7 @@ const App = () => {
       </div>
       <div id="section-link"></div>
       <Section
+        id="section-link"
         image={require("../images/wallpaper2.jpg")}
         logo="/images/logo-react.png"
         title="Purna Reddy"
@@ -60,11 +61,4 @@ const App = () => {
   );
 };
 
-//cursor
-// function cursor(e) {
-//   let mouse = document.querySelector(".cursor");
-//   mouse.style.top = e.pageY + "px";
-//   mouse.style.left = e.pageX + "px";
-// }
-// window.addEventListener("mousemove", cursor);
 export default App;

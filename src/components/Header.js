@@ -34,9 +34,9 @@ class Header extends React.Component {
           <p>Programmer's Den</p>
           <p>Top Players</p>
           <p>Maze Game</p>
-          <p href="#section-link">
+          <a href="#section-link">
             <button>About Me</button>
-          </p>
+          </a>
         </div>
       </div>
     );

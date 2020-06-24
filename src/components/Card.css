@@ -18,7 +18,11 @@
 .Card:hover img {
   transform: translateY(-20px);
 }
-
+.Card a {
+  line-height: 0;
+  font-size: 0;
+  color: transparent;
+}
 .Card img {
   position: absolute;
   top: 0;
