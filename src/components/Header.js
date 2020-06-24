@@ -31,9 +31,9 @@ class Header extends React.Component {
         className={this.state.hasScrolled ? "Header HeaderScrolled" : "Header"}
       >
         <div className="HeaderGroup">
-          <a>Maze Game</a>
-          <a>Secret Message</a>
+          <a>Programmer's Den</a>
           <a>Top Players</a>
+          <a>Maze Game</a>
           <a href="#section-link">
             <button>About Me</button>
           </a>

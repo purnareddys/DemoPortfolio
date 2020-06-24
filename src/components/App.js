@@ -24,21 +24,22 @@ const App = () => {
         <h2>Projects</h2>
         <div className="CardGroup">
           <Card
-            url="https://maze-game.purnareddy2013.now.sh/"
-            title="Maze Game"
-            text="JavaScript"
+            url="https://chat-app-3fc25.web.app/channel/programming"
+            title="Programmer's Den"
+            text="React & Firebase"
             image={require("../images/wallpaper.jpg")}
-          />
-          <Card
-            url="https://secretmessage-sharing-app.purnareddy2013.now.sh/"
-            title="Message"
-            text="Javascript"
-            image={require("../images/wallpaper2.jpg")}
           />
           <Card
             url="https://loving-snyder-d656a2.netlify.app/"
             title="Top Players"
             text="React & Redux"
+            image={require("../images/wallpaper2.jpg")}
+          />
+
+          <Card
+            url="https://maze-game.purnareddy2013.now.sh/"
+            title="Maze Game"
+            text="JavaScript"
             image={require("../images/wallpaper3.jpg")}
           />
         </div>
