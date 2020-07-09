@@ -24,6 +24,7 @@ const App = () => {
         <h2>Projects</h2>
         <div className="CardGroup">
           <Card
+            style={{ color: "black" }}
             url="https://chat-app-3fc25.web.app/channel/programming"
             title="Programmer's Den"
             text="React & Firebase"
