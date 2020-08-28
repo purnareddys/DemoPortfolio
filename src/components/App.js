@@ -31,9 +31,9 @@ const App = () => {
             image={require("../images/wallpaper.jpg")}
           />
           <Card
-            url="https://loving-snyder-d656a2.netlify.app/"
-            title="Top Players"
-            text="React & Redux"
+            url="https://netflix-clone-react-6284b.web.app/"
+            title="Netflix Clone"
+            text="React & Firebase"
             image={require("../images/wallpaper2.jpg")}
           />
 
